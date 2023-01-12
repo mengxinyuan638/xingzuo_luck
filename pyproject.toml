@@ -9,6 +9,7 @@ packages = [{include = "nonebot_plugin_xingzuo"}]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+httpx = "^0.23.3"
 
 
 [build-system]
